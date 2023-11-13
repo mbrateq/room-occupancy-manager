@@ -1,0 +1,2 @@
+room-occupancy-manager:
+  upgrade-threshold: 100
